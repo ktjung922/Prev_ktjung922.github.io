@@ -1,5 +1,6 @@
 ---
 layout: frontpage
+title: Home
 ---
 
 ## Welcome to my website
